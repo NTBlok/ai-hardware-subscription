@@ -1,6 +1,6 @@
 # Hardware Subscription Platform
 
-A comprehensive platform for managing hardware subscriptions, tracking physical devices, and providing customer support. The system allows customers to report hardware issues, track device status, and receive AI-powered assistance for troubleshooting.
+A comprehensive platform for managing hardware subscriptions, tracking physical devices, and providing customer support. The system allows customers to report hardware issues, track device status, and receive AI-powered assistance for triage and troubleshooting.
 
 ## Key Features
 
